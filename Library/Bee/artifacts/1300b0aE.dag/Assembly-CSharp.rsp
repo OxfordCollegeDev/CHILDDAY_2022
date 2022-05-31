@@ -352,6 +352,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CODIGOS/CARGAR_Escena.cs"
+"Assets/CODIGOS/LOGIN_Control.cs"
 "Assets/CODIGOS/ROTAR_Circus_Tent.cs"
 "Assets/CODIGOS/ROTAR_Top_Hat.cs"
 -langversion:9.0
